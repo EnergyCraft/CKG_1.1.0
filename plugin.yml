@@ -1,0 +1,9 @@
+name: CustomKitGUI
+main: fr.francepvp.justcrazy.customkitgui
+version: 1.1.0
+author: JuStCr4Zy
+website: http://dev.bukkit.org/bukkit-plugins/KitGUI/
+commands:
+  ckg:
+    description: all list of command
+    usage: /<commannd>
